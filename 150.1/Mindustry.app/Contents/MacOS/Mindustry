@@ -1,0 +1,4 @@
+#!/bin/bash
+DIR="$(cd "$(dirname "$0")/../Resources/Java" && pwd)"
+exec /usr/bin/java -jar "$DIR/Mindustry.jar"
+
