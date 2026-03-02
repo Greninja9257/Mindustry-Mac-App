@@ -87,6 +87,7 @@ Contributions are welcome! Please feel free to submit issues, feature requests, 
 3. Test with different Mindustry versions
 4. Submit a pull request
 
+# Please contribute as I WILL NOT spend all my life on this. It's literally just a side project.
 ## Support
 
 - **Issues**: Report bugs or request features in the [Issues section](../../issues)
